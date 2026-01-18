@@ -1,4 +1,4 @@
-# Hi there, I'm Kitty! 🐾
+# Hi there, I'm Anastasiia Velyka (Power) 🐾
 
 I'm a school teacher by day and a tech explorer by night. Based in Dnipro, Ukraine, I'm currently on a journey to transition from the classroom into the world of **3D Art and Development**.
 
@@ -19,7 +19,7 @@ I'm a school teacher by day and a tech explorer by night. Based in Dnipro, Ukrai
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroootwo&layout=compact&theme=tokyonight)
 
 ### 📫 Connect with me:
-* **LinkedIn**: [Link to your profile]
+* **LinkedIn**: [Link to your profile]](https://www.linkedin.com/in/anastasiia-velyka-2906b4321/)
 
 ---
 
