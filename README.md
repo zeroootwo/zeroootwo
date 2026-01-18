@@ -9,6 +9,9 @@ I'm a school teacher by day and a tech explorer by night. Based in Dnipro, Ukrai
 * **Python Exploration**: Building interactive tools and games, like my recent [Cat One Day](https://github.com/zeroootwo/CatOneDay) project.
 * **Linux & DevOps**: Powering my workflow with **Arch Linux** and **Hyprland**. I love automating boring stuff with **GitHub Actions**.
 
+### 🎨 My Portfolio:
+[![ArtStation](https://img.shields.io/badge/ArtStation-005288?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/power_1706)
+
 ### 🛠 Tech & Tools:
 * **Art**: Blender, Huion Kamvas 24.
 * **Dev**: Python, Bash, Git.
